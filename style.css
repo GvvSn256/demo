@@ -1,0 +1,47 @@
+body {
+	background-color: lightblue;
+	margin: 60px;
+	padding: 20px;
+	border: 10px solid navy;
+	border-radius: 10px;
+}
+img {
+	float: right;
+	height: 300px;
+	padding: 40px;
+	border-radius: 25%;
+}
+img:hover {
+	transform: scale(1.2);
+}
+h1 {
+	color: maroon;
+	text-shadow: 2px 2px 8px #FF4000;
+	font-family: Sans-serif;
+}
+h1:hover {
+	transform: scale(1.4);
+}
+h2 {
+	color: navy;
+}
+h3,p {
+	color: green;
+}
+#maroon{
+	color: maroon
+}
+table:hover {
+	transform: scale(1.15);
+}
+th,td {
+	padding: 5px;
+}
+footer {
+	text-align: center;
+	margin-top: 30px; 
+}
+span {
+	font-size: 40px;
+	text-align: right;
+}
